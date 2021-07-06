@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "flaticon";
+    src: /*url("./flaticon.ttf") format("truetype"),*/
+url("./flaticon/flaticon.woff") format("woff"),
+url("./flaticon/flaticon.woff2") format("woff2"),
+url("./flaticon/flaticon.eot") format("embedded-opentype"),
+url("./flaticon/flaticon.svg") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-left: 20px;
+}
+
+.flaticon-chat:before {
+    content: "\f101";
+}
+.flaticon-phone-call:before {
+    content: "\f102";
+}
+.flaticon-pin:before {
+    content: "\f103";
+}
+.flaticon-headphones:before {
+    content: "\f104";
+}

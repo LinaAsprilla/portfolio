@@ -1,0 +1,11 @@
+@media (max-width: 450px) {
+  .service_img img {
+    width: 290px;
+  }
+}
+@media (max-width: 991px) {
+  .service_img {
+    text-align: center;
+    padding-top: 40px;
+  }
+}

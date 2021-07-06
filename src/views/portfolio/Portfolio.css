@@ -1,0 +1,47 @@
+.portfolio_slider_area {
+  padding: 120px 0;
+}
+.section_title_two {
+  margin-bottom: 50px;
+}
+
+.portfolio-slider h4 {
+  color: #040c2c;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 0;
+  margin-top: 26px;
+}
+.portfolio-slider img {
+  max-width: 100%;
+  box-shadow: 0 2px 15px 0 rgb(0 0 0 / 6%);
+}
+.portfolio-slider a {
+  font-size: 14px;
+  color: #999 !important;
+}
+a,
+a:focus,
+a:hover {
+  text-decoration: none;
+}
+
+.portfolio-slider .p_item {
+  padding: 15px;
+}
+.portfolio-slider .slick-dots {
+  bottom: 0;
+  margin-top: 30px;
+  position: relative;
+}
+
+.slick-slider .slick-dots li {
+  margin: 0;
+  width: auto;
+  height: auto;
+}
+
+.portfolio-slider .slick-dots li.slick-active button:before,
+.portfolio-slider .slick-dots button:hover {
+  color: #8c0fb4;
+}

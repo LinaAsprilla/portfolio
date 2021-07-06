@@ -1,0 +1,67 @@
+.service-area {
+  padding: 120px 0;
+  background: #fafafa;
+}
+.service_content .section_title_two {
+  margin-bottom: 0;
+}
+.section_title_two h6 {
+  font-size: 14px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #8c0fb4;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.section_title_two h2 {
+  font-size: 38px;
+  font-weight: 700;
+  color: #040c2c;
+  letter-spacing: -2px;
+}
+
+.service_content p {
+  padding-top: 20px;
+  color: #677294;
+}
+
+.service_content .nav-tabs {
+  padding-right: 40px;
+  border: 0;
+  padding-top: 0;
+}
+
+.service_content .nav-tabs li {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.service_content .nav-tabs li a.active,
+.service_content .nav-tabs li a:hover {
+  color: #8c0fb4;
+  background: transparent;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.service_content .nav-tabs li a {
+  font-weight: 600;
+  border: 0;
+  padding: 0;
+}
+.service_content .nav-tabs li a {
+  font-weight: 600;
+  color: #040c2c;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  transition: color 0.2s linear;
+}
+
+.service_img {
+  text-align: left;
+}

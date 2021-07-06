@@ -6,9 +6,18 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
+    "emailjs-com": "^3.1.0",
+    "i18n-react": "^0.7.0",
+    "i18next": "^20.3.0",
+    "i18next-browser-languagedetector": "^6.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-i18next": "^9.0.10",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1",
     "web-vitals": "^1.1.1"
   },
   "scripts": {

@@ -1,0 +1,18 @@
+@media (max-width: 576px) {
+  .skills{
+    width: 290px;
+  }
+  .skills .c_items:first-child, .skills .c_items:nth-child(5) {
+    left: 0px;
+}
+.skills .c_items:nth-child(3), .skills .c_items:nth-child(7)  {
+ right: 0;
+}
+
+}
+@media (max-width: 991px) {
+  .skills{
+    height: 430px;
+    margin-top: 60px;
+  }
+}

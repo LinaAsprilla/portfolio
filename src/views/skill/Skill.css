@@ -1,0 +1,78 @@
+.skill_area_two {
+  padding: 120px 0;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+.bg_color {
+  background: #fafafa;
+}
+
+.skill_content_two p {
+  margin-bottom: 40px;
+  color: #677294;
+  text-align: justify;
+}
+.section_title_two {
+  margin-bottom: 30px;
+}
+.skills {
+  position: relative;
+  height: 100%;
+}
+.skill_col {
+  height: 386px;
+}
+
+.skills .c_items {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 30px 60px 0 rgb(0 11 40 / 10%);
+}
+.skills,
+.skills .c_items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.skills .c_items:first-child {
+  left: 30px;
+  top: 75px;
+}
+
+.skills .c_items:nth-child(2) {
+  left: 50%;
+  margin-left: -40px;
+  top: 0;
+}
+
+.skills .c_items:nth-child(3) {
+  right: 30px;
+  top: 75px;
+}
+
+.skills .middle {
+  position: relative;
+  width: 110px;
+  height: 110px;
+}
+
+.skills .c_items:nth-child(5) {
+  left: 30px;
+  bottom: 75px;
+}
+
+.skills .c_items:nth-child(6) {
+  left: 50%;
+  margin-left: -40px;
+  bottom: 0;
+}
+
+.skills .c_items:nth-child(7) {
+  right: 30px;
+  bottom: 75px;
+}

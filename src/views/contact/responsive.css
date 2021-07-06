@@ -1,0 +1,25 @@
+@media (max-width: 576px) {
+  .contact-area_two {
+    padding: 90px 0;
+  }
+  .get_item .media-body a,
+  .get_item .media-body p {
+    font-size: 21px;
+  }
+  .get_item i:before {
+    margin-left: 0;
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 568px) {
+  .get_item .media-body a,
+  .get_item .media-body p {
+    font-size: 17px;
+  }
+}
+@media (max-width: 991px) {
+  .get_info {
+    margin-bottom: 50px;
+  }
+}

@@ -1,0 +1,64 @@
+.contact-area-two {
+  padding: 120px 0;
+}
+.contact-area-two .section_title_two {
+  margin-bottom: 70px;
+}
+
+.get_item {
+  align-items: center;
+}
+.media {
+  display: flex;
+}
+
+.get_item img {
+  width: 50px;
+}
+.get_item i {
+  margin-right: 20px;
+}
+.get_item i:before {
+  font-size: 50px;
+  color: #8c0fb4;
+}
+.get_item .media-body h6 {
+  font-size: 14px;
+  color: #677294;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.get_item .media-body a,
+.get_item .media-body p {
+  font-size: 25px;
+  color: #040c2c;
+  font-weight: 600;
+  font-family: Montserrat, sans-serif;
+}
+
+.contact-area .input_form form .form-control {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #494949;
+  box-shadow: none;
+  border: 1px solid #ededed;
+  border-radius: 0;
+  padding-left: 20px;
+  text-transform: capitalize;
+  min-height: 44px;
+  margin-bottom: 30px;
+}
+
+.contact-area-two .input_form form .theme_btn {
+  background: #8c0fb4;
+  color: #fff;
+  border-color: #8c0fb4;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+}
+
+.invalid-feedback {
+  margin-top: -1.75rem;
+}
